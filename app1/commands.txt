@@ -1,0 +1,13 @@
+#npm i -D webpack
+
+#npm view webpack versions --json
+
+#node ./node_modules/webpack/bin/webpack.js ./src/app.js ./dist/app.bundle.js
+
+#node ./node_modules/webpack/bin/webpack.js ./src/app.js ./dist/app.bundle.js -p
+
+#node ./node_modules/webpack/bin/webpack.js ./src/app.js ./dist/app.bundle.js -p --watch*
+
+
+#npm run prod
+#npm run dev
