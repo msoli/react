@@ -11,3 +11,11 @@
 
 #npm run prod
 #npm run dev
+
+
+#npm i html-webpack-plugin --save-dev
+
+
+https://github.com/jantimon/html-webpack-plugin#configuration
+
+
