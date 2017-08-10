@@ -21,8 +21,19 @@
 
 #npm install extract-text-webpack-plugin@3.0.0 -D
 
+
+
+#npm i webpack-dev-server -D
+
+
+
+
+
+
 NOTA: buscar la correcta documentacion en la pagina de webpack
 
 https://github.com/jantimon/html-webpack-plugin#configuration
 https://www.npmjs.com/package/extract-text-webpack-plugin-webpack-2
 https://webpack.js.org/guides/migrating/#extracttextwebpackplugin-breaking-change
+
+https://webpack.js.org/configuration/dev-server/#components/sidebar/sidebar.jsx

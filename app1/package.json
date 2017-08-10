@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node ./node_modules/webpack/bin/webpack.js -d --watch",
+    "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "prod": "node ./node_modules/webpack/bin/webpack.js -p"
   },
   "author": "Miguel Solis",
@@ -16,6 +16,7 @@
     "node-sass": "^4.5.3",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
-    "webpack": "^3.5.1"
+    "webpack": "^3.5.1",
+    "webpack-dev-server": "^2.7.1"
   }
 }
