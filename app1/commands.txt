@@ -15,7 +15,14 @@
 
 #npm i html-webpack-plugin --save-dev
 
+#npm install css-loader --save-dev
+#npm install style-loader --save-dev
+#npm install sass-loader node-sass --save-dev
+
+#npm install extract-text-webpack-plugin@3.0.0 -D
+
+NOTA: buscar la correcta documentacion en la pagina de webpack
 
 https://github.com/jantimon/html-webpack-plugin#configuration
-
-
+https://www.npmjs.com/package/extract-text-webpack-plugin-webpack-2
+https://webpack.js.org/guides/migrating/#extracttextwebpackplugin-breaking-change
