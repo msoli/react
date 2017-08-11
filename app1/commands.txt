@@ -25,7 +25,12 @@
 
 #npm i webpack-dev-server -D
 
+#npm i D react react-dom
 
+#npm i -D babel babel-preset-react babel-preset-es2015
+
+#npm install --save-dev babel-loader babel-core
+#npm i -D rimraf
 
 
 
