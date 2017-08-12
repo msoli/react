@@ -1,0 +1,45 @@
+#npm i -D webpack
+
+#npm view webpack versions --json
+
+#node ./node_modules/webpack/bin/webpack.js ./src/app.js ./dist/app.bundle.js
+
+#node ./node_modules/webpack/bin/webpack.js ./src/app.js ./dist/app.bundle.js -p
+
+#node ./node_modules/webpack/bin/webpack.js ./src/app.js ./dist/app.bundle.js -p --watch*
+
+
+#npm run prod
+#npm run dev
+
+
+#npm i html-webpack-plugin --save-dev
+
+#npm install css-loader --save-dev
+#npm install style-loader --save-dev
+#npm install sass-loader node-sass --save-dev
+
+#npm install extract-text-webpack-plugin@3.0.0 -D
+
+
+
+#npm i webpack-dev-server -D
+
+#npm i D react react-dom
+
+#npm i -D babel babel-preset-react babel-preset-es2015
+
+#npm install --save-dev babel-loader babel-core
+#npm i -D rimraf
+
+#npm i -D file-loader
+#npm install image-webpack-loader --save-dev
+
+
+NOTA: buscar la correcta documentacion en la pagina de webpack
+
+https://github.com/jantimon/html-webpack-plugin#configuration
+https://www.npmjs.com/package/extract-text-webpack-plugin-webpack-2
+https://webpack.js.org/guides/migrating/#extracttextwebpackplugin-breaking-change
+
+https://webpack.js.org/configuration/dev-server/#components/sidebar/sidebar.jsx
